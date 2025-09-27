@@ -6,7 +6,7 @@ Beyond coding, I spend my time exploring books, music, and travel.<br><br>I’m 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devendra-kumawat-081676164/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]([https://pinterest.com/https://pin.it/1HTe0UPMM](https://in.pinterest.com/00devendrakumawat/_profile/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devendra__5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendra94kumawat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devendra-kumawat-081676164/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]((https://in.pinterest.com/00devendrakumawat/_profile/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devendra__5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendra94kumawat@gmail.com)
 
 # 💻 Tech Stack:
 
